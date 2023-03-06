@@ -1,6 +1,6 @@
 ### Hi there 👋
 Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapucaí, *Graduando em Sistemas de Informação* 🖥️ . </br>
-<img align="right" alt="GIF" src="https://tenor.com/pt-BR/view/loading-load-gif-15775009" width=50% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Aprendizados**
 - 📖 Aprendendo desenvolvimento de Software desktop em Java (Swing/JavaFX);</br>
