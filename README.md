@@ -2,7 +2,7 @@
 Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapucaí, *Graduando em Sistemas de Informação* 🖥️ . </br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
-**Full-Stack**
+**Aprendizados**
 - 📖 Aprendendo desenvolvimento de Software desktop em Java (Swing/JavaFX);</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
 - 📖 Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache 
