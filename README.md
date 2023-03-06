@@ -1,11 +1,11 @@
 ### Hi there 👋
-Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
+Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapucaí, *Graduando em Sistemas de Informação* 🖥️ . </br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Full-Stack**
-- 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
+- 📖 Aprendendo desenvolvimento de Software desktop em Java (Swing/JavaFX);</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
-- 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache 
+- 📖 Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache 
 <br />
 <br />
 <p>Linguagens e Ferramentas</p>
@@ -34,9 +34,9 @@ Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapuc
 </div>
 <p>Contatos</p>
 <div> 
-  <a href = "mailto:juliocarvalhocbq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-carvalho-0180285a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://bitbucket.org/juliocarvalho1928/"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carlos_eduardo_a.r@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos_eduardo-de-almeida-rosa-135643197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
   	
  
@@ -44,4 +44,4 @@ Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapuc
  
 </div>
 
-<p align="center">📗Quanto mais aprendo, mais me torno 🍀</p>
+<p align="center">Descobridor</p>
