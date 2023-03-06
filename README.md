@@ -21,11 +21,6 @@ Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapuc
 <img align="center" alt="Rafa-mySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
-<div align="center">
-  <a href="https://github.com/CarlosEduard0o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduar0o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduar0o&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br> 
 </div>
 <p>Contatos</p>
