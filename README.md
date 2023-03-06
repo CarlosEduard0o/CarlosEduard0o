@@ -1,14 +1,11 @@
 ### Hi there 👋
-Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
+Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Full-Stack**
 - 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
-- 📖 Experiência (1 ano) Apps mobile Android (Java) e iOS (Objective-C);</br>
-- 📖 Experiência (1 ano) App mobile hibrido utilizando o framework Xamarin (C#);</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
-- 📖 Angular, uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.</br>
-- 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache Kafka.</br>
+- 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache 
 <br />
 <br />
 <p>Linguagens e Ferramentas</p>
