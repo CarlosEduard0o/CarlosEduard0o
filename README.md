@@ -5,7 +5,7 @@ Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapuc
 **Aprendizados**
 - 📖 Aprendendo desenvolvimento de Software desktop em Java (Swing/JavaFX);</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
-- 📖 Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache 
+- 📖 Banco de dados MySql, Hibernate, HTML, CSS, Apache 
 <br />
 <br />
 <p>Linguagens e Ferramentas</p>
