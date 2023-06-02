@@ -3,6 +3,7 @@ Olá, meu nome é **Carlos Eduardo de Almeida Rosa**, sou de Santa Rita do Sapuc
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/CarlosEduard0o/CarlosEduard0o/main/loading-load.gif" width=30% />-->
 <br />
 **Aprendizados**
+<br />
 - 📖 Aprendendo desenvolvimento de Software desktop em Java (Swing/JavaFX);</br>
 - 📖 Organização de códigos fonte utilizando Github;</br>
 - 📖 Banco de dados MySql, Hibernate, HTML, CSS, Apache 
