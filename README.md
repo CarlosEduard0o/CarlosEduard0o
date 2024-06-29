@@ -20,6 +20,6 @@ Hi, I'm Carlos. Welcome to my profile. I'm currently studying Information System
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-# #GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosEduard0o&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
