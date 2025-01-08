@@ -23,6 +23,7 @@ Hi, I'm Carlos. Welcome to my profile. I'm currently studying Information System
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F1F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## GitHub Stats
 
