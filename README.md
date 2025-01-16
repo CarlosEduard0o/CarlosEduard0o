@@ -32,5 +32,5 @@ Hi, I'm Carlos. Welcome to my profile. I'm currently studying Information System
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduard0o&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
